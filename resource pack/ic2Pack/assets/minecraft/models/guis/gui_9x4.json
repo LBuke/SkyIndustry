@@ -1,0 +1,26 @@
+{
+	"__comment": "Designed by Teddydev with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"texture": "guis/template/gui_9x4"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ -16, -16, 15.9375 ],
+			"to": [ 32, 32, 16 ],
+			"faces": {
+				"north": { "uv": [ 11, 16, 0, 5 ], "texture": "#texture", "rotation": 180 },
+				"south": { "uv": [ 0, 5, 11, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"firstperson_lefthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"gui": {
+			"translation":  [ 71.9, 11, -25 ],
+			"scale":  [ 3.66, 3.66, 3.66 ]
+		}
+	}
+}

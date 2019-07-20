@@ -1,0 +1,6 @@
+{
+	"parent" : "guis/power_1x3/power_bar_0",
+	"textures": {
+		"texture": "guis/power_1x3/power_bar_25"
+	}
+}

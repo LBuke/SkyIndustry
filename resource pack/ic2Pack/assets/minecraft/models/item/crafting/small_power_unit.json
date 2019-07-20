@@ -1,0 +1,6 @@
+{
+	"parent": "item/default",
+	"textures": {
+		"layer0": "items/crafting/small_power_unit"
+	}
+}

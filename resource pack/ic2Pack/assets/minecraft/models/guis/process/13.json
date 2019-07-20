@@ -1,0 +1,6 @@
+{
+	"parent" : "guis/process/0",
+	"textures": {
+		"texture": "guis/process/13"
+	}
+}

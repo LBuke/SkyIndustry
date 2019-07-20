@@ -1,0 +1,6 @@
+{
+	"parent": "item/default",
+	"textures": {
+		"layer0": "items/bc_trigger/energy_not_flowing"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "block/machine/abstract_machine",
+	"textures": {
+		"up": "blocks/machine/storage/batbox_top",
+		"down": "blocks/machine/storage/batbox_bottom",
+		"north": "blocks/machine/storage/batbox_front",
+		"east": "blocks/machine/storage/batbox_leftright",
+		"south": "blocks/machine/storage/batbox_back",
+		"west": "blocks/machine/storage/batbox_leftright"
+	}
+}

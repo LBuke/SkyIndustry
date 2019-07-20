@@ -1,0 +1,6 @@
+4idea.history.GitLogUtil.readRecordsFromHandler(GitLogUtil.java:297)
+	at git4idea.history.GitLogUtil.readFullDetailsForHashes(GitLogUtil.java:353)
+	at git4idea.log.GitLogProvider.readFullDetails(GitLogProvider.java:357)
+	at com.intellij.vcs.log.data.index.VcsLogPersistentIndex$IndexingRequest.lambda$indexOneByOne$7(VcsLogPersistentIndex.java:569)
+	at com.intellij.vcs.log.util.TroveUtil.processBatches(TroveUtil.java:172)
+	at com.intellij.vcs.log.data.index.VcsLogPersistentIndex$Inde

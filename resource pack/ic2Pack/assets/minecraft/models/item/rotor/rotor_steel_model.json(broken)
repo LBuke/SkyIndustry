@@ -1,0 +1,6 @@
+{
+	"parent": "item/default",
+	"textures": {
+		"layer0": "items/rotor/steel_rotor_model"
+	}
+}

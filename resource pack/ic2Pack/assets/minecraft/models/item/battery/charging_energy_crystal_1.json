@@ -1,0 +1,6 @@
+{
+	"parent": "item/default",
+	"textures": {
+		"layer0": "items/battery/charging_energy_crystal_1"
+	}
+}

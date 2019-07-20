@@ -1,0 +1,5 @@
+om.intellij.vcs.log.data.index.VcsLogPersistentIndex$MySingleTaskController.lambda$startNewBackgroundTask$0(VcsLogPersistentIndex.java:406)
+	at com.intellij.vcs.log.impl.HeavyAwareExecutor$1.run(HeavyAwareExecutor.java:101)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:750)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAn

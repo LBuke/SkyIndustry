@@ -1,0 +1,7 @@
+{
+	"parent": "block/column_custom_block",
+	"textures": {
+		"side": "blocks/resource/uranium_block_sides",
+		"end": "blocks/resource/uranium_block_bottomtop"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent" : "guis/power/0",
+	"textures": {
+		"texture": "guis/power/6"
+	}
+}

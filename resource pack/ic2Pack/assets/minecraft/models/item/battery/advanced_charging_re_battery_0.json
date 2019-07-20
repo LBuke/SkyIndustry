@@ -1,0 +1,6 @@
+{
+	"parent": "item/default",
+	"textures": {
+		"layer0": "items/battery/advanced_charging_re_battery_0"
+	}
+}

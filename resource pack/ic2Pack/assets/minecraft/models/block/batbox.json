@@ -1,0 +1,11 @@
+{
+	"parent": "block/custom_block",
+	"textures": {
+		"up": "blocks/wiring/storage/batbox_top",
+		"down": "blocks/wiring/storage/batbox_bottom",
+		"north": "blocks/wiring/storage/batbox_front",
+		"east": "blocks/wiring/storage/mfe_leftright",
+		"south": "blocks/wiring/storage/batbox_back",
+		"west": "blocks/wiring/storage/batbox_leftright"
+	}
+}

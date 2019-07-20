@@ -1,0 +1,11 @@
+{
+	"parent": "block/machine/abstract_machine",
+	"textures": {
+		"up": "blocks/machine/machine",
+		"down": "blocks/machine/machine",
+		"north": "blocks/machine/generator/heat/solid/solid_heat_generator_back",
+		"east": "blocks/machine/generator/heat/solid/solid_heat_generator_right",
+		"south": "blocks/machine/generator/heat/solid/solid_heat_generator_front",
+		"west": "blocks/machine/generator/heat/solid/solid_heat_generator_left"
+	}
+}

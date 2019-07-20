@@ -1,0 +1,6 @@
+{
+	"parent" : "guis/fluid/lava/lava_0",
+	"textures": {
+		"texture": "guis/fluid/lava/fluid_lava_12"
+	}
+}

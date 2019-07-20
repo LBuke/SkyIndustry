@@ -1,0 +1,11 @@
+{
+	"parent": "block/machine/abstract_machine",
+	"textures": {
+		"up": "blocks/machine/storage/mfe_bottomtop",
+		"down": "blocks/machine/storage/mfe_bottomtop",
+		"north": "blocks/machine/storage/mfe_front",
+		"east": "blocks/machine/storage/mfe_leftright",
+		"south": "blocks/machine/storage/mfe_back",
+		"west": "blocks/machine/storage/mfe_leftright"
+	}
+}

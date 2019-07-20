@@ -1,0 +1,6 @@
+{
+	"parent": "item/tool/default",
+	"textures": {
+		"layer0": "items/tool/painter/painter_blue"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent" : "guis/flame/flame_0",
+	"textures": {
+		"texture": "guis/flame/flame_7"
+	}
+}

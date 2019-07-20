@@ -1,0 +1,6 @@
+{
+	"parent": "item/default",
+	"textures": {
+		"layer0": "items/upgrade/advanced_ejector_up"
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"__comment": "Designed by Teddydev with Cubik Studio - https://cubik.studio",
+	"parent": "block/cable/abstract_cable",
+	"textures": {
+		"texture": "blocks/cable/cablecase"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box3",
+			"from": [ 4, 4, 4 ],
+			"to": [ 12, 12, 12 ],
+			"faces": {
+				"down": { "uv": [ 4, 4, 12, 12 ], "texture": "#texture" },
+				"up": { "uv": [ 4, 4, 12, 12 ], "texture": "#texture" },
+				"north": { "uv": [ 4, 4, 12, 12 ], "texture": "#texture" },
+				"south": { "uv": [ 4, 4, 12, 12 ], "texture": "#texture" },
+				"west": { "uv": [ 4, 4, 12, 12 ], "texture": "#texture" },
+				"east": { "uv": [ 4, 4, 12, 12 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box7",
+			"from": [ 4, 12, 4 ],
+			"to": [ 12, 16, 12 ],
+			"faces": {
+				"down": { "uv": [ 4, 4, 12, 12 ], "texture": "#texture" },
+				"up": { "uv": [ 4, 4, 12, 12 ], "texture": "#texture" },
+				"north": { "uv": [ 4, 0, 12, 4 ], "texture": "#texture" },
+				"south": { "uv": [ 4, 0, 12, 4 ], "texture": "#texture" },
+				"west": { "uv": [ 4, 0, 12, 4 ], "texture": "#texture" },
+				"east": { "uv": [ 4, 0, 12, 4 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box8",
+			"from": [ 4, 0, 4 ],
+			"to": [ 12, 4, 12 ],
+			"faces": {
+				"down": { "uv": [ 4, 4, 12, 12 ], "texture": "#texture" },
+				"up": { "uv": [ 4, 4, 12, 12 ], "texture": "#texture" },
+				"north": { "uv": [ 4, 12, 12, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 4, 12, 12, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 4, 12, 12, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 4, 12, 12, 16 ], "texture": "#texture" }
+			}
+		}
+	]
+}

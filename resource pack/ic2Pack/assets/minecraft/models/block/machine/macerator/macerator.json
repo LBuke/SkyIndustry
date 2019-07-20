@@ -1,0 +1,11 @@
+{
+	"parent": "block/machine/abstract_machine",
+	"textures": {
+		"up": "blocks/machine/macerator/top",
+		"down": "blocks/machine/machine",
+		"north": "blocks/machine/macerator/front",
+		"east": "blocks/machine/machine",
+		"south": "blocks/machine/machine",
+		"west": "blocks/machine/machine"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "block/machine/abstract_machine",
+	"textures": {
+		"up": "blocks/machine/machine",
+		"down": "blocks/machine/machine",
+		"north": "blocks/machine/generator/electric/wind_generator_back",
+		"east": "blocks/machine/machine",
+		"south": "blocks/machine/generator/electric/wind_generator_front",
+		"west": "blocks/machine/machine"
+	}
+}

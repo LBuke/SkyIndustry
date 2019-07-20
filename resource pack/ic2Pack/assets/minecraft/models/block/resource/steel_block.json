@@ -1,0 +1,6 @@
+{
+	"parent": "block/basic_custom_block",
+	"textures": {
+		"all": "blocks/resource/steel_block"
+	}
+}
