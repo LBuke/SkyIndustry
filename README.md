@@ -10,9 +10,11 @@
  
 ---
 
-[Working machines with in-gui animation](https://www.youtube.com/watch?v=LL5cuSdzfIw&list=PL9outf41g73z3wlwevDKcFNV6LlfzzZS2&index=8&t=0s) (*Youtube*)
-[Custom items with recipe's (shapeless & shaped)](https://www.youtube.com/watch?v=hXYgB9AeuMM&list=PL9outf41g73z3wlwevDKcFNV6LlfzzZS2&index=8) (*Youtube*)
-[VANILLA crafting guide creation](https://www.youtube.com/watch?v=xtn3RaZyzYU&list=PL9outf41g73z3wlwevDKcFNV6LlfzzZS2&index=9) (*Youtube*)
+> [Working machines with in-gui animation](https://www.youtube.com/watch?v=LL5cuSdzfIw&list=PL9outf41g73z3wlwevDKcFNV6LlfzzZS2&index=8&t=0s) (*Youtube*)
+> 
+> [Custom items with recipe's (shapeless & shaped)](https://www.youtube.com/watch?v=hXYgB9AeuMM&list=PL9outf41g73z3wlwevDKcFNV6LlfzzZS2&index=8) (*Youtube*)
+> 
+> [VANILLA crafting guide creation](https://www.youtube.com/watch?v=xtn3RaZyzYU&list=PL9outf41g73z3wlwevDKcFNV6LlfzzZS2&index=9) (*Youtube*)
 
 ---
 
