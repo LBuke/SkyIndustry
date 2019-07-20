@@ -1,0 +1,9 @@
+files:
+  mysql:
+    dir: '{server}\plugins\Core\..\..\conf'
+    name: 'mysql'
+
+worlds:
+  blocked:
+    ic2:
+    - MainWorld

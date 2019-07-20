@@ -1,0 +1,7 @@
+name: ic2
+version: 1.0
+main: com.destinymc.ic2.IC2Plugin
+authors: [Teddeh]
+commands:
+  items:
+    description: Just a temp command, will be implementing a command system soon.

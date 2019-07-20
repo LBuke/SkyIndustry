@@ -1,0 +1,18 @@
+# Host for your connection.
+host: '167.114.65.102'
+
+# Port that your database is running on.
+port: 3306
+
+# Username used for login.
+user: 'Teddeh123'
+
+# Password of the specified user.
+password: 'Teddeh123'
+
+# Database to use.
+database: 'Teddeh123'
+
+# Pool configuration.
+min-idle: 2
+max-conn: 2
